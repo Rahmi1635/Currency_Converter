@@ -18,7 +18,7 @@ Bu proje, Python'un **Tkinter** kütüphanesi kullanılarak geliştirilmiş, 160
 Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 ### 1. Kullanılan Kütüphaneler
-requests
-tkinter
-json
+- `requests` (API verilerini çekmek için)
+- `tkinter` (Arayüz tasarımı için)
+- `json` (Veri formatını işlemek için)
 
